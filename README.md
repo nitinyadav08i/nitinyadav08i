@@ -23,4 +23,9 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
+
+<p align="center">
+
+  ![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer)
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
