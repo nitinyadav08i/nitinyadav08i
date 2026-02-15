@@ -1,6 +1,6 @@
 # 💫 About Me:
 <!-- TYPING:START -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=f79b07&center=false&vCenter=true&width=995&height=100&lines=My+Name+is+Nitin+Yadav;Learning+Web+Dev;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=f79b07&center=false&vCenter=true&width=995&height=100&lines=My+Name+is+Nitin+Yadav;Learning+Web+Dev;" alt="Typing SVG" />
 <!-- TYPING:END -->
 
 
