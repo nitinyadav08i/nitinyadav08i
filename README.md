@@ -26,6 +26,6 @@
 
 <p align="center">
 
-  ![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer)
+  ![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
