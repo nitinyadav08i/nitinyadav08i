@@ -26,6 +26,6 @@
 
 <p align="center">
 
-  ![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
+  ![Waving Footer]([https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Nitin%20Yadav&section=footer&fontAlignY=71))
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
