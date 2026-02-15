@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently lerning Web Development 
+<!-- TYPING:START -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=495&lines=My+Name+is+Nitin+Yadav;Learning+Web+Dev;" alt="Typing SVG" />
+<!-- TYPING:END -->
 
 
 ## 🌐 Socials:
