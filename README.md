@@ -15,4 +15,10 @@ I am currently lerning Web Development
 ---
 [![](https://visitcount.itsvg.in/api?id=nitinyadav08i&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+### 💬Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
